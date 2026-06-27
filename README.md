@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0093E9,50:80D0C7,100:0BAB64&height=260&section=header&text=GYARTENG&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Dev%20%C2%B7%20Backend%20Learner%20%C2%B7%20CS%20Student&descAlignY=55&descSize=22&stroke=ffffff&strokeWidth=1" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=45&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=100&lines=GYARTENG;GYARTENG" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0093E9,50:80D0C7,100:0BAB64&height=160&section=header" width="100%"/>
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GGyartengApp&color=0bab64&style=flat-square&label=Profile+Views)
 
 <br/>
+
+### Frontend Dev · iOS Developer · Backend Learner · CS Student
 
 *Building Peasah — a farm management app for Ghanaian farmers 🇬🇭*
 
@@ -22,7 +26,7 @@
 
 ### About Me
 
-I'm a Computer Science student building **Peasah**, a farm management app for Ghanaian farmers — across both the mobile app (Expo / React Native) and the backend (Spring Boot, Java, PostgreSQL). I started as a mobile developer and am now learning backend development from scratch as part of the same project.
+I'm a Computer Science student building **Peasah**, a farm management app for Ghanaian farmers — across both the mobile app (Expo / React Native) and the backend (Spring Boot, Java, PostgreSQL). I started out developing for iOS with **Swift**, moved into cross-platform mobile development, and am now learning backend development from scratch as part of the same project.
 
 I also build apps for real communities outside of class — like a church app for my local SDA congregation.
 
@@ -34,6 +38,8 @@ I like shipping things people actually use, even while I'm still learning the pi
 
 **Mobile**
 
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
