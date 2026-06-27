@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0D9488&height=220&section=header&text=GYARTENG&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Dev%20%C2%B7%20Backend%20Learner%20%C2%B7%20CS%20Student&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0093E9,50:80D0C7,100:0BAB64&height=260&section=header&text=GYARTENG&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Dev%20%C2%B7%20Backend%20Learner%20%C2%B7%20CS%20Student&descAlignY=55&descSize=22&stroke=ffffff&strokeWidth=1" width="100%"/>
 
-### Frontend Dev · Backend Learner · CS Student
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=GGyartengApp&color=0bab64&style=flat-square&label=Profile+Views)
+
+<br/>
 
 *Building Peasah — a farm management app for Ghanaian farmers 🇬🇭*
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gyarteng%20Otchere--Appiah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyarteng-otchere-appiah-33211a378/)
 [![Email](https://img.shields.io/badge/Email-gyartengappiah1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gyartengappiah1@gmail.com)
@@ -74,8 +80,6 @@ A mobile app built for a local SDA congregation under the Mid-West Ghana Confere
 
 ---
 
----
-
 ### GitHub Stats
 
 <div align="center">
@@ -87,10 +91,20 @@ A mobile app built for a local SDA congregation under the Mid-West Ghana Confere
 
 </div>
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=GGyartengApp&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
+
+</div>
+
 ---
 
 <div align="center">
 
 *"Ship the part you know. Learn the part you don't."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0093E9,50:80D0C7,100:0BAB64&height=120&section=footer" width="100%"/>
 
 </div>
