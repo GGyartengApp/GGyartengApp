@@ -2,7 +2,9 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=45&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=100&lines=GYARTENG;GYARTENG" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0093E9,50:80D0C7,100:0BAB64&height=160&section=header" width="100%"/>
+### Gyarteng Otchere-Appiah
+
+---
 
 <br/>
 
@@ -71,8 +73,8 @@ A farm management app for Ghanaian farmers, built with Expo and React Native. Fe
 The Spring Boot backend for Peasah, currently in development. Working through Java, Spring Data JPA, database migrations with Flyway, and Spring Security with JWT — learning backend development from the ground up while building a real production system.
 `Spring Boot` `Java` `PostgreSQL` `Maven`
 
-**⛪ Victory In Christ SDA Church App**
-A mobile app built for a local SDA congregation under the Mid-West Ghana Conference. Includes a floating tab bar, a full Bible navigation flow, and a Sabbath School tab.
+**⛪Church App**
+A mobile app built for a local  congregation under the Local Conference. Includes a floating tab bar, a full Bible navigation flow, and a Sabbath School tab.
 `React Native` `Expo` `TypeScript`
 
 ---
